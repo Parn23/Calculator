@@ -43,7 +43,7 @@ int main() {
             break;
         case 4:
             cin >> input1;
-            cout << "+\n";
+            cout << "/\n";
             cin >> input2;
             cout << "= ";
             basic::divide(input1, input2);
