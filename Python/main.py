@@ -1,4 +1,6 @@
 from basic import *
+from advanced import *
+import math
 
 # operation = None
 input1 = None
@@ -29,5 +31,12 @@ elif input1 == "4":
     input2 = input()
     input3 = input("/\n")
     divide(input2, input3)
+elif input1 == "5":
+    input2 = input()
+    input3 = input("^\n")
+    expo(input2, input3)
+elif input1 == "6":
+    input2 = int(input("Find the square root of: "))
+    sqrt(input2)
 else:
     print("Invalid value, please try again")
