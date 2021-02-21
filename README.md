@@ -7,6 +7,7 @@ usable for everyone.
 ### What tools were used to make this project?
 - JetBrains CLion
 - JetBrains PyCharm  
+- JetBrains Rider  
 - Windows Terminal
 ### Developers
 - Parn 23
@@ -14,7 +15,7 @@ usable for everyone.
 - C++
 - CMake
 - Python 
-- C# (maybe, not confirmed yet)
+- C# 
 
 
 
