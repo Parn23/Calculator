@@ -5,13 +5,13 @@ class basic {
 
 public:
 // Function declarations
-static int add(int num1, int num2);
+static int add(float num1, float num2);
 
-static int subtract(int num1, int num2);
+static int subtract(float num1, float num2);
 
-static int multiply(int num1, int num2);
+static int multiply(float num1, float num2);
 
-static int divide(int num1, int num2);
+static int divide(float num1, float num2);
 };
 
 
