@@ -4,7 +4,7 @@
 class basic {
 
 public:
-// Function declarations
+// Function definitions
 static int add(float num1, float num2);
 
 static int subtract(float num1, float num2);

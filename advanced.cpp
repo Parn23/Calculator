@@ -3,6 +3,7 @@
 #include "advanced.h"
 using namespace std;
 
+// Function implementations
 int advanced::expo(float num1, float num2) {
     float num3 = pow(num1, num2);
     cout << num3;
