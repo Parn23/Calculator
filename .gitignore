@@ -1,5 +1,4 @@
 
-IntelliJ IDEA
 # Prerequisites
 *.d
 
@@ -36,4 +35,4 @@ IntelliJ IDEA
 # Build directories and IDE settings
 /cmake-build-debug/
 /.idea/
-
+/Python/.idea
