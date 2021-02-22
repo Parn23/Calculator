@@ -6,7 +6,7 @@ using namespace std;
 int basic::add(float num1, float num2) {
     float num3;
     num3 = num1 + num2;
-    cout << num3;
+    cout << "Answer: " << num3;
     return 0;
 }
 
@@ -14,7 +14,7 @@ int basic::add(float num1, float num2) {
 int basic::subtract(float num1, float num2) {
     float num3;
     num3 = num1 - num2;
-    cout << num3;
+    cout << "Answer: " << num3;
     return 0;
 }
 
@@ -22,7 +22,7 @@ int basic::subtract(float num1, float num2) {
 int basic::multiply(float num1, float num2) {
     float num3;
     num3 = num1 * num2;
-    cout << num3;
+    cout << "Answer: " << num3;
     return 0;
 }
 
@@ -30,6 +30,6 @@ int basic::multiply(float num1, float num2) {
 int basic::divide(float num1, float num2) {
     float num3;
     num3 = num1 / num2;
-    cout << num3;
+    cout << "Answer: " << num3;
     return 0;
 }
