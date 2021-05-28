@@ -15,8 +15,5 @@ usable for everyone.
 - C++
 - CMake
 - Python 
-- C# 
-
-
-
-  
+- C#
+- Rust
