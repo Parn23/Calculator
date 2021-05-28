@@ -38,3 +38,7 @@
 *.sln
 *.csproj
 
+# Other
+*.lock
+Cargo.toml
+
