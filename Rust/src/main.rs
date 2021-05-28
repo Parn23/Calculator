@@ -1,3 +1,9 @@
+use std::io;
+
 fn main() {
-    println!("Hello, world!");
+    let mut operation = String::new();
+    println!("Enter an operation");
+    io::stdin()
+        .read_line(&mut operation)
+        .expect("Failed to parse input");
 }

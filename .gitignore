@@ -35,4 +35,6 @@
 # Build directories and IDE settings
 /cmake-build-debug/
 /.idea/
+*.sln
+*.csproj
 
