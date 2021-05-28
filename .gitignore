@@ -38,3 +38,6 @@
 *.sln
 *.csproj
 
+# Other
+/Rust/Cargo.toml
+/Rust/Cargo.lock
